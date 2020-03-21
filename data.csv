@@ -1,42 +1,83 @@
 date,city,pct_city_moving_day
-2020-03-20,Madrid,4
-2020-03-20,Milan,4
-2020-03-20,Vienna,5
+2020-03-19,Barcelona,5
+2020-03-19,Berlin,18
+2020-03-19,Birmingham,42
+2020-03-19,Boston,12
+2020-03-19,Brussels,9
+2020-03-19,Chicago,14
+2020-03-19,Copenhagen,13
+2020-03-19,Hamburg,14
+2020-03-19,Hong Kong,
+2020-03-19,Istanbul,16
+2020-03-19,Lisbon,17
+2020-03-19,London,39
+2020-03-19,Los Angeles,20
+2020-03-19,Lyon,5
+2020-03-19,Madrid,5
+2020-03-19,Manchester,38
+2020-03-19,Melbourne,50
+2020-03-19,Mexico City,48
+2020-03-19,Milan,4
+2020-03-19,Monaco,10
+2020-03-19,Montreal,27
+2020-03-19,Moscow,64
+2020-03-19,Netherlands,10
+2020-03-19,New York City,13
+2020-03-19,Paris,5
+2020-03-19,Philadelphia,19
+2020-03-19,Rhine-Ruhr,22
+2020-03-19,Rome,6
+2020-03-19,San Francisco,9
+2020-03-19,Seattle,17
+2020-03-19,Seoul,36
+2020-03-19,Singapore,70
+2020-03-19,St. Petersburg,76
+2020-03-19,Stockholm,36
+2020-03-19,Sydney,54
+2020-03-19,São Paulo,25
+2020-03-19,Tokyo,37
+2020-03-19,Toronto,31
+2020-03-19,Vancouver,34
+2020-03-19,Vienna,7
+2020-03-19,Washington DC,13
 2020-03-20,Barcelona,5
-2020-03-20,Lyon,5
-2020-03-20,Paris,5
-2020-03-20,Rome,5
-2020-03-20,Brussels,7
-2020-03-20,Copenhagen,8
-2020-03-20,Monaco,8
-2020-03-20,Netherlands,8
-2020-03-20,San Francisco,9
-2020-03-20,Boston,12
-2020-03-20,Washington DC,12
-2020-03-20,New York City,12
 2020-03-20,Berlin,13
-2020-03-20,Lisbon,13
-2020-03-20,Chicago,13
-2020-03-20,Hamburg,14
-2020-03-20,Istanbul,14
-2020-03-20,Rhine-Ruhr,16
-2020-03-20,Seattle,16
-2020-03-20,São Paulo,19
-2020-03-20,Los Angeles,19
-2020-03-20,Philadelphia,19
-2020-03-20,Montreal,24
-2020-03-20,Toronto,27
-2020-03-20,Vancouver,27
-2020-03-20,Stockholm,30
-2020-03-20,London,31
-2020-03-20,Tokyo,35
-2020-03-20,Manchester,36
 2020-03-20,Birmingham,38
-2020-03-20,Mexico City,42
-2020-03-20,Seoul,44
+2020-03-20,Boston,12
+2020-03-20,Brussels,7
+2020-03-20,Chicago,13
+2020-03-20,Copenhagen,8
+2020-03-20,Hamburg,14
+2020-03-20,Hong Kong,
+2020-03-20,Istanbul,14
+2020-03-20,Lisbon,13
+2020-03-20,London,31
+2020-03-20,Los Angeles,19
+2020-03-20,Lyon,5
+2020-03-20,Madrid,4
+2020-03-20,Manchester,36
 2020-03-20,Melbourne,49
-2020-03-20,Sydney,56
+2020-03-20,Mexico City,42
+2020-03-20,Milan,4
+2020-03-20,Monaco,8
+2020-03-20,Montreal,24
 2020-03-20,Moscow,56
+2020-03-20,Netherlands,8
+2020-03-20,New York City,12
+2020-03-20,Paris,5
+2020-03-20,Philadelphia,19
+2020-03-20,Rhine-Ruhr,16
+2020-03-20,Rome,5
+2020-03-20,San Francisco,9
+2020-03-20,Seattle,16
+2020-03-20,Seoul,44
 2020-03-20,Singapore,70
 2020-03-20,St. Petersburg,72
-2020-03-20,Hong Kong,
+2020-03-20,Stockholm,30
+2020-03-20,Sydney,56
+2020-03-20,São Paulo,19
+2020-03-20,Tokyo,35
+2020-03-20,Toronto,27
+2020-03-20,Vancouver,27
+2020-03-20,Vienna,5
+2020-03-20,Washington DC,12
