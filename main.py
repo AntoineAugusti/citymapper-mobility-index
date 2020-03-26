@@ -31,7 +31,7 @@ class Parser(object):
 
 
 data = []
-for filename in sorted(glob.glob("*.html")):
+for filename in sorted(glob.glob("data/*.html")):
     with open(filename) as f:
         html_content = f.read()
     parsed = Parser(html_content)
