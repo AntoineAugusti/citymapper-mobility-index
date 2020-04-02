@@ -1,29 +1,31 @@
+import csv
+import datetime
 import glob
 import re
-import csv
 
 from bs4 import BeautifulSoup
 
 
 class Parser(object):
+    START_DATE = datetime.datetime(2020, 3, 2)
+
     def __init__(self, html):
         super(Parser, self).__init__()
         self.content = BeautifulSoup(html, "html.parser")
 
     def values(self):
-        def clean_values(matches):
-            day = matches[0]
-            if int(matches[0]) < 10:
-                day = "0" + matches[0]
-
-            return (f"2020-03-{day}", int(matches[1]))
+        def clean_values(current_date, percentage):
+            return (current_date.strftime("%Y-%m-%d"), int(percentage))
 
         res = []
+        current_date = self.START_DATE
+
         for item in self.content.findAll("td"):
             matches = re.findall(r"(\d+)(?:st|nd|rd|th).*>(\d+)%", str(item))
             if len(matches) == 0:
                 continue
-            res.append(clean_values(matches[0]))
+            res.append(clean_values(current_date, matches[0][1]))
+            current_date = current_date + datetime.timedelta(days=1)
         return res
 
     def city(self):
