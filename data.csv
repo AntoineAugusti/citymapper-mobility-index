@@ -1,810 +1,4 @@
 city,date,percentage
-Barcelona,2020-03-02,112
-Barcelona,2020-03-03,105
-Barcelona,2020-03-04,105
-Barcelona,2020-03-05,106
-Barcelona,2020-03-06,105
-Barcelona,2020-03-07,110
-Barcelona,2020-03-08,107
-Barcelona,2020-03-09,104
-Barcelona,2020-03-10,92
-Barcelona,2020-03-11,86
-Barcelona,2020-03-12,69
-Barcelona,2020-03-13,47
-Barcelona,2020-03-14,24
-Barcelona,2020-03-15,16
-Barcelona,2020-03-16,12
-Barcelona,2020-03-17,8
-Barcelona,2020-03-18,6
-Barcelona,2020-03-19,5
-Barcelona,2020-03-20,5
-Barcelona,2020-03-21,4
-Barcelona,2020-03-22,3
-Barcelona,2020-03-23,5
-Barcelona,2020-03-24,4
-Barcelona,2020-03-25,4
-Barcelona,2020-03-26,3
-Barcelona,2020-03-27,3
-Barcelona,2020-03-28,3
-Barcelona,2020-03-29,3
-Barcelona,2020-03-30,4
-Barcelona,2020-03-31,3
-Barcelona,2020-04-01,3
-Berlin,2020-03-02,103
-Berlin,2020-03-03,94
-Berlin,2020-03-04,93
-Berlin,2020-03-05,92
-Berlin,2020-03-06,92
-Berlin,2020-03-07,92
-Berlin,2020-03-08,97
-Berlin,2020-03-09,94
-Berlin,2020-03-10,83
-Berlin,2020-03-11,86
-Berlin,2020-03-12,72
-Berlin,2020-03-13,60
-Berlin,2020-03-14,54
-Berlin,2020-03-15,45
-Berlin,2020-03-16,41
-Berlin,2020-03-17,28
-Berlin,2020-03-18,26
-Berlin,2020-03-19,18
-Berlin,2020-03-20,13
-Berlin,2020-03-21,12
-Berlin,2020-03-22,11
-Berlin,2020-03-23,13
-Berlin,2020-03-24,12
-Berlin,2020-03-25,12
-Berlin,2020-03-26,11
-Berlin,2020-03-27,10
-Berlin,2020-03-28,10
-Berlin,2020-03-29,8
-Berlin,2020-03-30,12
-Berlin,2020-03-31,12
-Berlin,2020-04-01,12
-Birmingham,2020-03-02,100
-Birmingham,2020-03-03,105
-Birmingham,2020-03-04,99
-Birmingham,2020-03-05,104
-Birmingham,2020-03-06,108
-Birmingham,2020-03-07,111
-Birmingham,2020-03-08,100
-Birmingham,2020-03-09,100
-Birmingham,2020-03-10,98
-Birmingham,2020-03-11,91
-Birmingham,2020-03-12,95
-Birmingham,2020-03-13,89
-Birmingham,2020-03-14,84
-Birmingham,2020-03-15,72
-Birmingham,2020-03-16,65
-Birmingham,2020-03-17,55
-Birmingham,2020-03-18,45
-Birmingham,2020-03-19,42
-Birmingham,2020-03-20,38
-Birmingham,2020-03-21,31
-Birmingham,2020-03-22,25
-Birmingham,2020-03-23,31
-Birmingham,2020-03-24,21
-Birmingham,2020-03-25,18
-Birmingham,2020-03-26,16
-Birmingham,2020-03-27,14
-Birmingham,2020-03-28,14
-Birmingham,2020-03-29,14
-Birmingham,2020-03-30,16
-Birmingham,2020-03-31,13
-Birmingham,2020-04-01,12
-Boston,2020-03-02,97
-Boston,2020-03-03,99
-Boston,2020-03-04,97
-Boston,2020-03-05,97
-Boston,2020-03-06,102
-Boston,2020-03-07,93
-Boston,2020-03-08,89
-Boston,2020-03-09,92
-Boston,2020-03-10,81
-Boston,2020-03-11,77
-Boston,2020-03-12,62
-Boston,2020-03-13,49
-Boston,2020-03-14,42
-Boston,2020-03-15,35
-Boston,2020-03-16,28
-Boston,2020-03-17,19
-Boston,2020-03-18,16
-Boston,2020-03-19,12
-Boston,2020-03-20,12
-Boston,2020-03-21,11
-Boston,2020-03-22,10
-Boston,2020-03-23,10
-Boston,2020-03-24,8
-Boston,2020-03-25,7
-Boston,2020-03-26,7
-Boston,2020-03-27,7
-Boston,2020-03-28,6
-Boston,2020-03-29,6
-Boston,2020-03-30,6
-Boston,2020-03-31,6
-Boston,2020-04-01,6
-Brussels,2020-03-02,106
-Brussels,2020-03-03,102
-Brussels,2020-03-04,107
-Brussels,2020-03-05,109
-Brussels,2020-03-06,112
-Brussels,2020-03-07,112
-Brussels,2020-03-08,107
-Brussels,2020-03-09,103
-Brussels,2020-03-10,87
-Brussels,2020-03-11,96
-Brussels,2020-03-12,82
-Brussels,2020-03-13,68
-Brussels,2020-03-14,38
-Brussels,2020-03-15,33
-Brussels,2020-03-16,33
-Brussels,2020-03-17,23
-Brussels,2020-03-18,15
-Brussels,2020-03-19,9
-Brussels,2020-03-20,7
-Brussels,2020-03-21,7
-Brussels,2020-03-22,8
-Brussels,2020-03-23,8
-Brussels,2020-03-24,7
-Brussels,2020-03-25,7
-Brussels,2020-03-26,8
-Brussels,2020-03-27,7
-Brussels,2020-03-28,6
-Brussels,2020-03-29,6
-Brussels,2020-03-30,7
-Brussels,2020-03-31,7
-Brussels,2020-04-01,7
-Chicago,2020-03-02,106
-Chicago,2020-03-03,99
-Chicago,2020-03-04,97
-Chicago,2020-03-05,100
-Chicago,2020-03-06,101
-Chicago,2020-03-07,109
-Chicago,2020-03-08,107
-Chicago,2020-03-09,105
-Chicago,2020-03-10,95
-Chicago,2020-03-11,92
-Chicago,2020-03-12,80
-Chicago,2020-03-13,66
-Chicago,2020-03-14,54
-Chicago,2020-03-15,49
-Chicago,2020-03-16,34
-Chicago,2020-03-17,21
-Chicago,2020-03-18,16
-Chicago,2020-03-19,14
-Chicago,2020-03-20,13
-Chicago,2020-03-21,12
-Chicago,2020-03-22,10
-Chicago,2020-03-23,9
-Chicago,2020-03-24,9
-Chicago,2020-03-25,7
-Chicago,2020-03-26,7
-Chicago,2020-03-27,7
-Chicago,2020-03-28,7
-Chicago,2020-03-29,9
-Chicago,2020-03-30,8
-Chicago,2020-03-31,7
-Chicago,2020-04-01,7
-Copenhagen,2020-03-02,103
-Copenhagen,2020-03-03,102
-Copenhagen,2020-03-04,97
-Copenhagen,2020-03-05,96
-Copenhagen,2020-03-06,103
-Copenhagen,2020-03-07,111
-Copenhagen,2020-03-08,101
-Copenhagen,2020-03-09,97
-Copenhagen,2020-03-10,86
-Copenhagen,2020-03-11,80
-Copenhagen,2020-03-12,56
-Copenhagen,2020-03-13,31
-Copenhagen,2020-03-14,27
-Copenhagen,2020-03-15,21
-Copenhagen,2020-03-16,17
-Copenhagen,2020-03-17,15
-Copenhagen,2020-03-18,11
-Copenhagen,2020-03-19,13
-Copenhagen,2020-03-20,8
-Copenhagen,2020-03-21,9
-Copenhagen,2020-03-22,8
-Copenhagen,2020-03-23,10
-Copenhagen,2020-03-24,10
-Copenhagen,2020-03-25,11
-Copenhagen,2020-03-26,8
-Copenhagen,2020-03-27,8
-Copenhagen,2020-03-28,8
-Copenhagen,2020-03-29,7
-Copenhagen,2020-03-30,9
-Copenhagen,2020-03-31,12
-Copenhagen,2020-04-01,10
-Washington DC,2020-03-02,102
-Washington DC,2020-03-03,95
-Washington DC,2020-03-04,97
-Washington DC,2020-03-05,96
-Washington DC,2020-03-06,92
-Washington DC,2020-03-07,101
-Washington DC,2020-03-08,98
-Washington DC,2020-03-09,94
-Washington DC,2020-03-10,83
-Washington DC,2020-03-11,82
-Washington DC,2020-03-12,66
-Washington DC,2020-03-13,54
-Washington DC,2020-03-14,47
-Washington DC,2020-03-15,35
-Washington DC,2020-03-16,32
-Washington DC,2020-03-17,19
-Washington DC,2020-03-18,15
-Washington DC,2020-03-19,13
-Washington DC,2020-03-20,12
-Washington DC,2020-03-21,14
-Washington DC,2020-03-22,11
-Washington DC,2020-03-23,9
-Washington DC,2020-03-24,7
-Washington DC,2020-03-25,6
-Washington DC,2020-03-26,7
-Washington DC,2020-03-27,6
-Washington DC,2020-03-28,6
-Washington DC,2020-03-29,7
-Washington DC,2020-03-30,8
-Washington DC,2020-03-31,5
-Washington DC,2020-04-01,5
-Mexico City,2020-03-02,113
-Mexico City,2020-03-03,111
-Mexico City,2020-03-04,109
-Mexico City,2020-03-05,108
-Mexico City,2020-03-06,109
-Mexico City,2020-03-07,114
-Mexico City,2020-03-08,132
-Mexico City,2020-03-09,74
-Mexico City,2020-03-10,95
-Mexico City,2020-03-11,110
-Mexico City,2020-03-12,102
-Mexico City,2020-03-13,101
-Mexico City,2020-03-14,91
-Mexico City,2020-03-15,82
-Mexico City,2020-03-16,43
-Mexico City,2020-03-17,62
-Mexico City,2020-03-18,53
-Mexico City,2020-03-19,48
-Mexico City,2020-03-20,42
-Mexico City,2020-03-21,31
-Mexico City,2020-03-22,28
-Mexico City,2020-03-23,30
-Mexico City,2020-03-24,28
-Mexico City,2020-03-25,23
-Mexico City,2020-03-26,21
-Mexico City,2020-03-27,18
-Mexico City,2020-03-28,16
-Mexico City,2020-03-29,15
-Mexico City,2020-03-30,18
-Mexico City,2020-03-31,17
-Mexico City,2020-04-01,15
-Hamburg,2020-03-02,94
-Hamburg,2020-03-03,82
-Hamburg,2020-03-04,85
-Hamburg,2020-03-05,87
-Hamburg,2020-03-06,88
-Hamburg,2020-03-07,93
-Hamburg,2020-03-08,88
-Hamburg,2020-03-09,87
-Hamburg,2020-03-10,74
-Hamburg,2020-03-11,72
-Hamburg,2020-03-12,67
-Hamburg,2020-03-13,59
-Hamburg,2020-03-14,48
-Hamburg,2020-03-15,45
-Hamburg,2020-03-16,39
-Hamburg,2020-03-17,27
-Hamburg,2020-03-18,20
-Hamburg,2020-03-19,19
-Hamburg,2020-03-20,14
-Hamburg,2020-03-21,9
-Hamburg,2020-03-22,12
-Hamburg,2020-03-23,15
-Hamburg,2020-03-24,12
-Hamburg,2020-03-25,12
-Hamburg,2020-03-26,10
-Hamburg,2020-03-27,11
-Hamburg,2020-03-28,11
-Hamburg,2020-03-29,10
-Hamburg,2020-03-30,14
-Hamburg,2020-03-31,13
-Hamburg,2020-04-01,12
-Hong Kong,2020-03-02,52
-Hong Kong,2020-03-03,52
-Hong Kong,2020-03-04,50
-Hong Kong,2020-03-05,52
-Hong Kong,2020-03-06,54
-Hong Kong,2020-03-07,55
-Hong Kong,2020-03-08,53
-Hong Kong,2020-03-09,54
-Hong Kong,2020-03-10,55
-Hong Kong,2020-03-11,52
-Hong Kong,2020-03-12,54
-Hong Kong,2020-03-13,53
-Hong Kong,2020-03-14,56
-Hong Kong,2020-03-15,55
-Hong Kong,2020-03-16,54
-Hong Kong,2020-03-17,52
-Hong Kong,2020-03-18,48
-Hong Kong,2020-03-19,46
-Hong Kong,2020-03-20,44
-Hong Kong,2020-03-21,41
-Hong Kong,2020-03-22,42
-Hong Kong,2020-03-23,40
-Hong Kong,2020-03-24,38
-Hong Kong,2020-03-25,37
-Hong Kong,2020-03-26,36
-Hong Kong,2020-03-27,34
-Hong Kong,2020-03-28,28
-Hong Kong,2020-03-29,28
-Hong Kong,2020-03-30,32
-Hong Kong,2020-03-31,33
-Hong Kong,2020-04-01,33
-Istanbul,2020-03-02,124
-Istanbul,2020-03-03,124
-Istanbul,2020-03-04,117
-Istanbul,2020-03-05,117
-Istanbul,2020-03-06,127
-Istanbul,2020-03-07,144
-Istanbul,2020-03-08,141
-Istanbul,2020-03-09,126
-Istanbul,2020-03-10,114
-Istanbul,2020-03-11,103
-Istanbul,2020-03-12,98
-Istanbul,2020-03-13,89
-Istanbul,2020-03-14,73
-Istanbul,2020-03-15,52
-Istanbul,2020-03-16,49
-Istanbul,2020-03-17,31
-Istanbul,2020-03-18,20
-Istanbul,2020-03-19,16
-Istanbul,2020-03-20,14
-Istanbul,2020-03-21,11
-Istanbul,2020-03-22,11
-Istanbul,2020-03-23,11
-Istanbul,2020-03-24,10
-Istanbul,2020-03-25,10
-Istanbul,2020-03-26,10
-Istanbul,2020-03-27,8
-Istanbul,2020-03-28,7
-Istanbul,2020-03-29,7
-Istanbul,2020-03-30,9
-Istanbul,2020-03-31,8
-Istanbul,2020-04-01,8
-Los Angeles,2020-03-02,107
-Los Angeles,2020-03-03,110
-Los Angeles,2020-03-04,108
-Los Angeles,2020-03-05,104
-Los Angeles,2020-03-06,100
-Los Angeles,2020-03-07,96
-Los Angeles,2020-03-08,98
-Los Angeles,2020-03-09,103
-Los Angeles,2020-03-10,92
-Los Angeles,2020-03-11,81
-Los Angeles,2020-03-12,71
-Los Angeles,2020-03-13,56
-Los Angeles,2020-03-14,50
-Los Angeles,2020-03-15,44
-Los Angeles,2020-03-16,39
-Los Angeles,2020-03-17,27
-Los Angeles,2020-03-18,23
-Los Angeles,2020-03-19,20
-Los Angeles,2020-03-20,19
-Los Angeles,2020-03-21,15
-Los Angeles,2020-03-22,13
-Los Angeles,2020-03-23,16
-Los Angeles,2020-03-24,12
-Los Angeles,2020-03-25,13
-Los Angeles,2020-03-26,12
-Los Angeles,2020-03-27,11
-Los Angeles,2020-03-28,10
-Los Angeles,2020-03-29,11
-Los Angeles,2020-03-30,12
-Los Angeles,2020-03-31,11
-Los Angeles,2020-04-01,11
-Lisbon,2020-03-02,120
-Lisbon,2020-03-03,123
-Lisbon,2020-03-04,128
-Lisbon,2020-03-05,125
-Lisbon,2020-03-06,123
-Lisbon,2020-03-07,127
-Lisbon,2020-03-08,118
-Lisbon,2020-03-09,120
-Lisbon,2020-03-10,113
-Lisbon,2020-03-11,108
-Lisbon,2020-03-12,85
-Lisbon,2020-03-13,68
-Lisbon,2020-03-14,62
-Lisbon,2020-03-15,45
-Lisbon,2020-03-16,35
-Lisbon,2020-03-17,27
-Lisbon,2020-03-18,24
-Lisbon,2020-03-19,17
-Lisbon,2020-03-20,13
-Lisbon,2020-03-21,13
-Lisbon,2020-03-22,11
-Lisbon,2020-03-23,14
-Lisbon,2020-03-24,12
-Lisbon,2020-03-25,12
-Lisbon,2020-03-26,10
-Lisbon,2020-03-27,10
-Lisbon,2020-03-28,12
-Lisbon,2020-03-29,11
-Lisbon,2020-03-30,11
-Lisbon,2020-03-31,12
-Lisbon,2020-04-01,10
-London,2020-03-02,100
-London,2020-03-03,102
-London,2020-03-04,100
-London,2020-03-05,101
-London,2020-03-06,99
-London,2020-03-07,97
-London,2020-03-08,94
-London,2020-03-09,97
-London,2020-03-10,97
-London,2020-03-11,91
-London,2020-03-12,84
-London,2020-03-13,75
-London,2020-03-14,75
-London,2020-03-15,67
-London,2020-03-16,60
-London,2020-03-17,44
-London,2020-03-18,36
-London,2020-03-19,39
-London,2020-03-20,31
-London,2020-03-21,23
-London,2020-03-22,23
-London,2020-03-23,25
-London,2020-03-24,15
-London,2020-03-25,12
-London,2020-03-26,10
-London,2020-03-27,9
-London,2020-03-28,8
-London,2020-03-29,8
-London,2020-03-30,10
-London,2020-03-31,10
-London,2020-04-01,9
-Lyon,2020-03-02,82
-Lyon,2020-03-03,76
-Lyon,2020-03-04,75
-Lyon,2020-03-05,77
-Lyon,2020-03-06,80
-Lyon,2020-03-07,89
-Lyon,2020-03-08,94
-Lyon,2020-03-09,99
-Lyon,2020-03-10,99
-Lyon,2020-03-11,97
-Lyon,2020-03-12,89
-Lyon,2020-03-13,81
-Lyon,2020-03-14,75
-Lyon,2020-03-15,53
-Lyon,2020-03-16,36
-Lyon,2020-03-17,14
-Lyon,2020-03-18,6
-Lyon,2020-03-19,5
-Lyon,2020-03-20,5
-Lyon,2020-03-21,4
-Lyon,2020-03-22,4
-Lyon,2020-03-23,5
-Lyon,2020-03-24,5
-Lyon,2020-03-25,4
-Lyon,2020-03-26,4
-Lyon,2020-03-27,4
-Lyon,2020-03-28,4
-Lyon,2020-03-29,3
-Lyon,2020-03-30,4
-Lyon,2020-03-31,4
-Lyon,2020-04-01,4
-Madrid,2020-03-02,107
-Madrid,2020-03-03,100
-Madrid,2020-03-04,100
-Madrid,2020-03-05,101
-Madrid,2020-03-06,101
-Madrid,2020-03-07,98
-Madrid,2020-03-08,103
-Madrid,2020-03-09,100
-Madrid,2020-03-10,78
-Madrid,2020-03-11,65
-Madrid,2020-03-12,41
-Madrid,2020-03-13,23
-Madrid,2020-03-14,11
-Madrid,2020-03-15,10
-Madrid,2020-03-16,9
-Madrid,2020-03-17,6
-Madrid,2020-03-18,5
-Madrid,2020-03-19,5
-Madrid,2020-03-20,4
-Madrid,2020-03-21,4
-Madrid,2020-03-22,4
-Madrid,2020-03-23,5
-Madrid,2020-03-24,5
-Madrid,2020-03-25,4
-Madrid,2020-03-26,4
-Madrid,2020-03-27,3
-Madrid,2020-03-28,3
-Madrid,2020-03-29,3
-Madrid,2020-03-30,4
-Madrid,2020-03-31,4
-Madrid,2020-04-01,4
-Manchester,2020-03-02,106
-Manchester,2020-03-03,98
-Manchester,2020-03-04,100
-Manchester,2020-03-05,100
-Manchester,2020-03-06,105
-Manchester,2020-03-07,102
-Manchester,2020-03-08,108
-Manchester,2020-03-09,101
-Manchester,2020-03-10,93
-Manchester,2020-03-11,91
-Manchester,2020-03-12,88
-Manchester,2020-03-13,89
-Manchester,2020-03-14,81
-Manchester,2020-03-15,77
-Manchester,2020-03-16,68
-Manchester,2020-03-17,47
-Manchester,2020-03-18,42
-Manchester,2020-03-19,38
-Manchester,2020-03-20,36
-Manchester,2020-03-21,26
-Manchester,2020-03-22,26
-Manchester,2020-03-23,28
-Manchester,2020-03-24,16
-Manchester,2020-03-25,13
-Manchester,2020-03-26,12
-Manchester,2020-03-27,12
-Manchester,2020-03-28,10
-Manchester,2020-03-29,11
-Manchester,2020-03-30,13
-Manchester,2020-03-31,10
-Manchester,2020-04-01,10
-Melbourne,2020-03-02,112
-Melbourne,2020-03-03,106
-Melbourne,2020-03-04,113
-Melbourne,2020-03-05,106
-Melbourne,2020-03-06,104
-Melbourne,2020-03-07,104
-Melbourne,2020-03-08,93
-Melbourne,2020-03-09,93
-Melbourne,2020-03-10,106
-Melbourne,2020-03-11,110
-Melbourne,2020-03-12,102
-Melbourne,2020-03-13,95
-Melbourne,2020-03-14,89
-Melbourne,2020-03-15,81
-Melbourne,2020-03-16,79
-Melbourne,2020-03-17,66
-Melbourne,2020-03-18,53
-Melbourne,2020-03-19,50
-Melbourne,2020-03-20,49
-Melbourne,2020-03-21,46
-Melbourne,2020-03-22,42
-Melbourne,2020-03-23,33
-Melbourne,2020-03-24,25
-Melbourne,2020-03-25,20
-Melbourne,2020-03-26,20
-Melbourne,2020-03-27,18
-Melbourne,2020-03-28,18
-Melbourne,2020-03-29,18
-Melbourne,2020-03-30,18
-Melbourne,2020-03-31,15
-Melbourne,2020-04-01,15
-Milan,2020-03-02,45
-Milan,2020-03-03,44
-Milan,2020-03-04,43
-Milan,2020-03-05,39
-Milan,2020-03-06,37
-Milan,2020-03-07,34
-Milan,2020-03-08,23
-Milan,2020-03-09,19
-Milan,2020-03-10,13
-Milan,2020-03-11,10
-Milan,2020-03-12,7
-Milan,2020-03-13,6
-Milan,2020-03-14,5
-Milan,2020-03-15,5
-Milan,2020-03-16,7
-Milan,2020-03-17,6
-Milan,2020-03-18,5
-Milan,2020-03-19,4
-Milan,2020-03-20,4
-Milan,2020-03-21,3
-Milan,2020-03-22,3
-Milan,2020-03-23,4
-Milan,2020-03-24,4
-Milan,2020-03-25,3
-Milan,2020-03-26,3
-Milan,2020-03-27,3
-Milan,2020-03-28,2
-Milan,2020-03-29,3
-Milan,2020-03-30,4
-Milan,2020-03-31,3
-Milan,2020-04-01,3
-Monaco,2020-03-02,82
-Monaco,2020-03-03,72
-Monaco,2020-03-04,81
-Monaco,2020-03-05,60
-Monaco,2020-03-06,75
-Monaco,2020-03-07,65
-Monaco,2020-03-08,64
-Monaco,2020-03-09,70
-Monaco,2020-03-10,74
-Monaco,2020-03-11,50
-Monaco,2020-03-12,55
-Monaco,2020-03-13,50
-Monaco,2020-03-14,35
-Monaco,2020-03-15,30
-Monaco,2020-03-16,33
-Monaco,2020-03-17,20
-Monaco,2020-03-18,12
-Monaco,2020-03-19,10
-Monaco,2020-03-20,8
-Monaco,2020-03-21,4
-Monaco,2020-03-22,7
-Monaco,2020-03-23,5
-Monaco,2020-03-24,10
-Monaco,2020-03-25,7
-Monaco,2020-03-26,7
-Monaco,2020-03-27,7
-Monaco,2020-03-28,7
-Monaco,2020-03-29,5
-Monaco,2020-03-30,7
-Monaco,2020-03-31,5
-Monaco,2020-04-01,7
-Montréal,2020-03-02,96
-Montréal,2020-03-03,100
-Montréal,2020-03-04,103
-Montréal,2020-03-05,104
-Montréal,2020-03-06,102
-Montréal,2020-03-07,107
-Montréal,2020-03-08,113
-Montréal,2020-03-09,96
-Montréal,2020-03-10,99
-Montréal,2020-03-11,104
-Montréal,2020-03-12,100
-Montréal,2020-03-13,87
-Montréal,2020-03-14,79
-Montréal,2020-03-15,69
-Montréal,2020-03-16,51
-Montréal,2020-03-17,34
-Montréal,2020-03-18,31
-Montréal,2020-03-19,27
-Montréal,2020-03-20,24
-Montréal,2020-03-21,23
-Montréal,2020-03-22,21
-Montréal,2020-03-23,18
-Montréal,2020-03-24,16
-Montréal,2020-03-25,14
-Montréal,2020-03-26,13
-Montréal,2020-03-27,13
-Montréal,2020-03-28,12
-Montréal,2020-03-29,11
-Montréal,2020-03-30,13
-Montréal,2020-03-31,12
-Montréal,2020-04-01,13
-Moscow,2020-03-02,102
-Moscow,2020-03-03,117
-Moscow,2020-03-04,112
-Moscow,2020-03-05,103
-Moscow,2020-03-06,108
-Moscow,2020-03-07,102
-Moscow,2020-03-08,97
-Moscow,2020-03-09,86
-Moscow,2020-03-10,106
-Moscow,2020-03-11,113
-Moscow,2020-03-12,100
-Moscow,2020-03-13,95
-Moscow,2020-03-14,100
-Moscow,2020-03-15,80
-Moscow,2020-03-16,85
-Moscow,2020-03-17,82
-Moscow,2020-03-18,75
-Moscow,2020-03-19,64
-Moscow,2020-03-20,56
-Moscow,2020-03-21,53
-Moscow,2020-03-22,56
-Moscow,2020-03-23,56
-Moscow,2020-03-24,56
-Moscow,2020-03-25,54
-Moscow,2020-03-26,49
-Moscow,2020-03-27,46
-Moscow,2020-03-28,32
-Moscow,2020-03-29,27
-Moscow,2020-03-30,17
-Moscow,2020-03-31,17
-Moscow,2020-04-01,14
-New York City,2020-03-02,100
-New York City,2020-03-03,102
-New York City,2020-03-04,104
-New York City,2020-03-05,102
-New York City,2020-03-06,103
-New York City,2020-03-07,103
-New York City,2020-03-08,101
-New York City,2020-03-09,97
-New York City,2020-03-10,90
-New York City,2020-03-11,85
-New York City,2020-03-12,70
-New York City,2020-03-13,54
-New York City,2020-03-14,47
-New York City,2020-03-15,36
-New York City,2020-03-16,30
-New York City,2020-03-17,20
-New York City,2020-03-18,17
-New York City,2020-03-19,13
-New York City,2020-03-20,12
-New York City,2020-03-21,10
-New York City,2020-03-22,8
-New York City,2020-03-23,8
-New York City,2020-03-24,8
-New York City,2020-03-25,7
-New York City,2020-03-26,8
-New York City,2020-03-27,7
-New York City,2020-03-28,6
-New York City,2020-03-29,5
-New York City,2020-03-30,8
-New York City,2020-03-31,7
-New York City,2020-04-01,7
-Paris,2020-03-02,95
-Paris,2020-03-03,101
-Paris,2020-03-04,95
-Paris,2020-03-05,98
-Paris,2020-03-06,99
-Paris,2020-03-07,99
-Paris,2020-03-08,95
-Paris,2020-03-09,86
-Paris,2020-03-10,88
-Paris,2020-03-11,89
-Paris,2020-03-12,81
-Paris,2020-03-13,74
-Paris,2020-03-14,65
-Paris,2020-03-15,47
-Paris,2020-03-16,33
-Paris,2020-03-17,15
-Paris,2020-03-18,8
-Paris,2020-03-19,7
-Paris,2020-03-20,6
-Paris,2020-03-21,5
-Paris,2020-03-22,6
-Paris,2020-03-23,7
-Paris,2020-03-24,6
-Paris,2020-03-25,6
-Paris,2020-03-26,6
-Paris,2020-03-27,5
-Paris,2020-03-28,5
-Paris,2020-03-29,5
-Paris,2020-03-30,6
-Paris,2020-03-31,6
-Paris,2020-04-01,5
-Philadelphia,2020-03-02,94
-Philadelphia,2020-03-03,96
-Philadelphia,2020-03-04,89
-Philadelphia,2020-03-05,96
-Philadelphia,2020-03-06,95
-Philadelphia,2020-03-07,101
-Philadelphia,2020-03-08,103
-Philadelphia,2020-03-09,100
-Philadelphia,2020-03-10,85
-Philadelphia,2020-03-11,85
-Philadelphia,2020-03-12,70
-Philadelphia,2020-03-13,56
-Philadelphia,2020-03-14,50
-Philadelphia,2020-03-15,39
-Philadelphia,2020-03-16,38
-Philadelphia,2020-03-17,28
-Philadelphia,2020-03-18,22
-Philadelphia,2020-03-19,19
-Philadelphia,2020-03-20,19
-Philadelphia,2020-03-21,19
-Philadelphia,2020-03-22,17
-Philadelphia,2020-03-23,17
-Philadelphia,2020-03-24,13
-Philadelphia,2020-03-25,13
-Philadelphia,2020-03-26,15
-Philadelphia,2020-03-27,14
-Philadelphia,2020-03-28,11
-Philadelphia,2020-03-29,11
-Philadelphia,2020-03-30,13
-Philadelphia,2020-03-31,10
-Philadelphia,2020-04-01,12
 Amsterdam,2020-03-02,110
 Amsterdam,2020-03-03,103
 Amsterdam,2020-03-04,98
@@ -836,6 +30,807 @@ Amsterdam,2020-03-29,5
 Amsterdam,2020-03-30,5
 Amsterdam,2020-03-31,6
 Amsterdam,2020-04-01,6
+Amsterdam,2020-04-02,6
+Barcelona,2020-03-02,112
+Barcelona,2020-03-03,105
+Barcelona,2020-03-04,105
+Barcelona,2020-03-05,106
+Barcelona,2020-03-06,105
+Barcelona,2020-03-07,110
+Barcelona,2020-03-08,107
+Barcelona,2020-03-09,104
+Barcelona,2020-03-10,92
+Barcelona,2020-03-11,86
+Barcelona,2020-03-12,69
+Barcelona,2020-03-13,47
+Barcelona,2020-03-14,24
+Barcelona,2020-03-15,16
+Barcelona,2020-03-16,12
+Barcelona,2020-03-17,8
+Barcelona,2020-03-18,6
+Barcelona,2020-03-19,5
+Barcelona,2020-03-20,5
+Barcelona,2020-03-21,4
+Barcelona,2020-03-22,3
+Barcelona,2020-03-23,5
+Barcelona,2020-03-24,4
+Barcelona,2020-03-25,4
+Barcelona,2020-03-26,3
+Barcelona,2020-03-27,3
+Barcelona,2020-03-28,3
+Barcelona,2020-03-29,3
+Barcelona,2020-03-30,4
+Barcelona,2020-03-31,3
+Barcelona,2020-04-01,3
+Barcelona,2020-04-02,3
+Berlin,2020-03-02,103
+Berlin,2020-03-03,94
+Berlin,2020-03-04,93
+Berlin,2020-03-05,92
+Berlin,2020-03-06,92
+Berlin,2020-03-07,92
+Berlin,2020-03-08,97
+Berlin,2020-03-09,94
+Berlin,2020-03-10,83
+Berlin,2020-03-11,86
+Berlin,2020-03-12,72
+Berlin,2020-03-13,60
+Berlin,2020-03-14,54
+Berlin,2020-03-15,45
+Berlin,2020-03-16,41
+Berlin,2020-03-17,28
+Berlin,2020-03-18,26
+Berlin,2020-03-19,18
+Berlin,2020-03-20,13
+Berlin,2020-03-21,12
+Berlin,2020-03-22,11
+Berlin,2020-03-23,13
+Berlin,2020-03-24,12
+Berlin,2020-03-25,12
+Berlin,2020-03-26,11
+Berlin,2020-03-27,10
+Berlin,2020-03-28,10
+Berlin,2020-03-29,8
+Berlin,2020-03-30,12
+Berlin,2020-03-31,12
+Berlin,2020-04-01,12
+Berlin,2020-04-02,11
+Birmingham,2020-03-02,100
+Birmingham,2020-03-03,105
+Birmingham,2020-03-04,99
+Birmingham,2020-03-05,104
+Birmingham,2020-03-06,108
+Birmingham,2020-03-07,111
+Birmingham,2020-03-08,100
+Birmingham,2020-03-09,100
+Birmingham,2020-03-10,98
+Birmingham,2020-03-11,91
+Birmingham,2020-03-12,95
+Birmingham,2020-03-13,89
+Birmingham,2020-03-14,84
+Birmingham,2020-03-15,72
+Birmingham,2020-03-16,65
+Birmingham,2020-03-17,55
+Birmingham,2020-03-18,45
+Birmingham,2020-03-19,42
+Birmingham,2020-03-20,38
+Birmingham,2020-03-21,31
+Birmingham,2020-03-22,25
+Birmingham,2020-03-23,31
+Birmingham,2020-03-24,21
+Birmingham,2020-03-25,18
+Birmingham,2020-03-26,16
+Birmingham,2020-03-27,14
+Birmingham,2020-03-28,14
+Birmingham,2020-03-29,14
+Birmingham,2020-03-30,16
+Birmingham,2020-03-31,13
+Birmingham,2020-04-01,12
+Birmingham,2020-04-02,13
+Boston,2020-03-02,97
+Boston,2020-03-03,99
+Boston,2020-03-04,97
+Boston,2020-03-05,97
+Boston,2020-03-06,102
+Boston,2020-03-07,93
+Boston,2020-03-08,89
+Boston,2020-03-09,92
+Boston,2020-03-10,81
+Boston,2020-03-11,77
+Boston,2020-03-12,62
+Boston,2020-03-13,49
+Boston,2020-03-14,42
+Boston,2020-03-15,35
+Boston,2020-03-16,28
+Boston,2020-03-17,19
+Boston,2020-03-18,16
+Boston,2020-03-19,12
+Boston,2020-03-20,12
+Boston,2020-03-21,11
+Boston,2020-03-22,10
+Boston,2020-03-23,10
+Boston,2020-03-24,8
+Boston,2020-03-25,7
+Boston,2020-03-26,7
+Boston,2020-03-27,7
+Boston,2020-03-28,6
+Boston,2020-03-29,6
+Boston,2020-03-30,6
+Boston,2020-03-31,6
+Boston,2020-04-01,6
+Boston,2020-04-02,5
+Brussels,2020-03-02,106
+Brussels,2020-03-03,102
+Brussels,2020-03-04,107
+Brussels,2020-03-05,109
+Brussels,2020-03-06,112
+Brussels,2020-03-07,112
+Brussels,2020-03-08,107
+Brussels,2020-03-09,103
+Brussels,2020-03-10,87
+Brussels,2020-03-11,96
+Brussels,2020-03-12,82
+Brussels,2020-03-13,68
+Brussels,2020-03-14,38
+Brussels,2020-03-15,33
+Brussels,2020-03-16,33
+Brussels,2020-03-17,23
+Brussels,2020-03-18,15
+Brussels,2020-03-19,9
+Brussels,2020-03-20,7
+Brussels,2020-03-21,7
+Brussels,2020-03-22,8
+Brussels,2020-03-23,8
+Brussels,2020-03-24,7
+Brussels,2020-03-25,7
+Brussels,2020-03-26,8
+Brussels,2020-03-27,7
+Brussels,2020-03-28,6
+Brussels,2020-03-29,6
+Brussels,2020-03-30,7
+Brussels,2020-03-31,7
+Brussels,2020-04-01,7
+Brussels,2020-04-02,6
+Chicago,2020-03-02,106
+Chicago,2020-03-03,99
+Chicago,2020-03-04,97
+Chicago,2020-03-05,100
+Chicago,2020-03-06,101
+Chicago,2020-03-07,109
+Chicago,2020-03-08,107
+Chicago,2020-03-09,105
+Chicago,2020-03-10,95
+Chicago,2020-03-11,92
+Chicago,2020-03-12,80
+Chicago,2020-03-13,66
+Chicago,2020-03-14,54
+Chicago,2020-03-15,49
+Chicago,2020-03-16,34
+Chicago,2020-03-17,21
+Chicago,2020-03-18,16
+Chicago,2020-03-19,14
+Chicago,2020-03-20,13
+Chicago,2020-03-21,12
+Chicago,2020-03-22,10
+Chicago,2020-03-23,9
+Chicago,2020-03-24,9
+Chicago,2020-03-25,7
+Chicago,2020-03-26,7
+Chicago,2020-03-27,7
+Chicago,2020-03-28,7
+Chicago,2020-03-29,9
+Chicago,2020-03-30,8
+Chicago,2020-03-31,7
+Chicago,2020-04-01,7
+Chicago,2020-04-02,7
+Copenhagen,2020-03-02,103
+Copenhagen,2020-03-03,102
+Copenhagen,2020-03-04,97
+Copenhagen,2020-03-05,96
+Copenhagen,2020-03-06,103
+Copenhagen,2020-03-07,111
+Copenhagen,2020-03-08,101
+Copenhagen,2020-03-09,97
+Copenhagen,2020-03-10,86
+Copenhagen,2020-03-11,80
+Copenhagen,2020-03-12,56
+Copenhagen,2020-03-13,31
+Copenhagen,2020-03-14,27
+Copenhagen,2020-03-15,21
+Copenhagen,2020-03-16,17
+Copenhagen,2020-03-17,15
+Copenhagen,2020-03-18,11
+Copenhagen,2020-03-19,13
+Copenhagen,2020-03-20,8
+Copenhagen,2020-03-21,9
+Copenhagen,2020-03-22,8
+Copenhagen,2020-03-23,10
+Copenhagen,2020-03-24,10
+Copenhagen,2020-03-25,11
+Copenhagen,2020-03-26,8
+Copenhagen,2020-03-27,8
+Copenhagen,2020-03-28,8
+Copenhagen,2020-03-29,7
+Copenhagen,2020-03-30,9
+Copenhagen,2020-03-31,12
+Copenhagen,2020-04-01,10
+Copenhagen,2020-04-02,10
+Hamburg,2020-03-02,94
+Hamburg,2020-03-03,82
+Hamburg,2020-03-04,85
+Hamburg,2020-03-05,87
+Hamburg,2020-03-06,88
+Hamburg,2020-03-07,93
+Hamburg,2020-03-08,88
+Hamburg,2020-03-09,87
+Hamburg,2020-03-10,74
+Hamburg,2020-03-11,72
+Hamburg,2020-03-12,67
+Hamburg,2020-03-13,59
+Hamburg,2020-03-14,48
+Hamburg,2020-03-15,45
+Hamburg,2020-03-16,39
+Hamburg,2020-03-17,27
+Hamburg,2020-03-18,20
+Hamburg,2020-03-19,19
+Hamburg,2020-03-20,14
+Hamburg,2020-03-21,9
+Hamburg,2020-03-22,12
+Hamburg,2020-03-23,15
+Hamburg,2020-03-24,12
+Hamburg,2020-03-25,12
+Hamburg,2020-03-26,10
+Hamburg,2020-03-27,11
+Hamburg,2020-03-28,11
+Hamburg,2020-03-29,10
+Hamburg,2020-03-30,14
+Hamburg,2020-03-31,13
+Hamburg,2020-04-01,12
+Hamburg,2020-04-02,13
+Hong Kong,2020-03-02,52
+Hong Kong,2020-03-03,52
+Hong Kong,2020-03-04,50
+Hong Kong,2020-03-05,52
+Hong Kong,2020-03-06,54
+Hong Kong,2020-03-07,55
+Hong Kong,2020-03-08,53
+Hong Kong,2020-03-09,54
+Hong Kong,2020-03-10,55
+Hong Kong,2020-03-11,52
+Hong Kong,2020-03-12,54
+Hong Kong,2020-03-13,53
+Hong Kong,2020-03-14,56
+Hong Kong,2020-03-15,55
+Hong Kong,2020-03-16,54
+Hong Kong,2020-03-17,52
+Hong Kong,2020-03-18,48
+Hong Kong,2020-03-19,46
+Hong Kong,2020-03-20,44
+Hong Kong,2020-03-21,41
+Hong Kong,2020-03-22,42
+Hong Kong,2020-03-23,40
+Hong Kong,2020-03-24,38
+Hong Kong,2020-03-25,37
+Hong Kong,2020-03-26,36
+Hong Kong,2020-03-27,34
+Hong Kong,2020-03-28,28
+Hong Kong,2020-03-29,28
+Hong Kong,2020-03-30,32
+Hong Kong,2020-03-31,33
+Hong Kong,2020-04-01,33
+Hong Kong,2020-04-02,32
+Istanbul,2020-03-02,124
+Istanbul,2020-03-03,124
+Istanbul,2020-03-04,117
+Istanbul,2020-03-05,117
+Istanbul,2020-03-06,127
+Istanbul,2020-03-07,144
+Istanbul,2020-03-08,141
+Istanbul,2020-03-09,126
+Istanbul,2020-03-10,114
+Istanbul,2020-03-11,103
+Istanbul,2020-03-12,98
+Istanbul,2020-03-13,89
+Istanbul,2020-03-14,73
+Istanbul,2020-03-15,52
+Istanbul,2020-03-16,49
+Istanbul,2020-03-17,31
+Istanbul,2020-03-18,20
+Istanbul,2020-03-19,16
+Istanbul,2020-03-20,14
+Istanbul,2020-03-21,11
+Istanbul,2020-03-22,11
+Istanbul,2020-03-23,11
+Istanbul,2020-03-24,10
+Istanbul,2020-03-25,10
+Istanbul,2020-03-26,10
+Istanbul,2020-03-27,8
+Istanbul,2020-03-28,7
+Istanbul,2020-03-29,7
+Istanbul,2020-03-30,9
+Istanbul,2020-03-31,8
+Istanbul,2020-04-01,8
+Istanbul,2020-04-02,7
+Lisbon,2020-03-02,120
+Lisbon,2020-03-03,123
+Lisbon,2020-03-04,128
+Lisbon,2020-03-05,125
+Lisbon,2020-03-06,123
+Lisbon,2020-03-07,127
+Lisbon,2020-03-08,118
+Lisbon,2020-03-09,120
+Lisbon,2020-03-10,113
+Lisbon,2020-03-11,108
+Lisbon,2020-03-12,85
+Lisbon,2020-03-13,68
+Lisbon,2020-03-14,62
+Lisbon,2020-03-15,45
+Lisbon,2020-03-16,35
+Lisbon,2020-03-17,27
+Lisbon,2020-03-18,24
+Lisbon,2020-03-19,17
+Lisbon,2020-03-20,13
+Lisbon,2020-03-21,13
+Lisbon,2020-03-22,11
+Lisbon,2020-03-23,14
+Lisbon,2020-03-24,12
+Lisbon,2020-03-25,12
+Lisbon,2020-03-26,10
+Lisbon,2020-03-27,10
+Lisbon,2020-03-28,12
+Lisbon,2020-03-29,11
+Lisbon,2020-03-30,11
+Lisbon,2020-03-31,12
+Lisbon,2020-04-01,10
+Lisbon,2020-04-02,11
+London,2020-03-02,100
+London,2020-03-03,102
+London,2020-03-04,100
+London,2020-03-05,101
+London,2020-03-06,99
+London,2020-03-07,97
+London,2020-03-08,94
+London,2020-03-09,97
+London,2020-03-10,97
+London,2020-03-11,91
+London,2020-03-12,84
+London,2020-03-13,75
+London,2020-03-14,75
+London,2020-03-15,67
+London,2020-03-16,60
+London,2020-03-17,44
+London,2020-03-18,36
+London,2020-03-19,39
+London,2020-03-20,31
+London,2020-03-21,23
+London,2020-03-22,23
+London,2020-03-23,25
+London,2020-03-24,15
+London,2020-03-25,12
+London,2020-03-26,10
+London,2020-03-27,9
+London,2020-03-28,8
+London,2020-03-29,8
+London,2020-03-30,10
+London,2020-03-31,10
+London,2020-04-01,9
+London,2020-04-02,9
+Los Angeles,2020-03-02,107
+Los Angeles,2020-03-03,110
+Los Angeles,2020-03-04,108
+Los Angeles,2020-03-05,104
+Los Angeles,2020-03-06,100
+Los Angeles,2020-03-07,96
+Los Angeles,2020-03-08,98
+Los Angeles,2020-03-09,103
+Los Angeles,2020-03-10,92
+Los Angeles,2020-03-11,81
+Los Angeles,2020-03-12,71
+Los Angeles,2020-03-13,56
+Los Angeles,2020-03-14,50
+Los Angeles,2020-03-15,44
+Los Angeles,2020-03-16,39
+Los Angeles,2020-03-17,27
+Los Angeles,2020-03-18,23
+Los Angeles,2020-03-19,20
+Los Angeles,2020-03-20,19
+Los Angeles,2020-03-21,15
+Los Angeles,2020-03-22,13
+Los Angeles,2020-03-23,16
+Los Angeles,2020-03-24,12
+Los Angeles,2020-03-25,13
+Los Angeles,2020-03-26,12
+Los Angeles,2020-03-27,11
+Los Angeles,2020-03-28,10
+Los Angeles,2020-03-29,11
+Los Angeles,2020-03-30,12
+Los Angeles,2020-03-31,11
+Los Angeles,2020-04-01,11
+Los Angeles,2020-04-02,11
+Lyon,2020-03-02,82
+Lyon,2020-03-03,76
+Lyon,2020-03-04,75
+Lyon,2020-03-05,77
+Lyon,2020-03-06,80
+Lyon,2020-03-07,89
+Lyon,2020-03-08,94
+Lyon,2020-03-09,99
+Lyon,2020-03-10,99
+Lyon,2020-03-11,97
+Lyon,2020-03-12,89
+Lyon,2020-03-13,81
+Lyon,2020-03-14,75
+Lyon,2020-03-15,53
+Lyon,2020-03-16,36
+Lyon,2020-03-17,14
+Lyon,2020-03-18,6
+Lyon,2020-03-19,5
+Lyon,2020-03-20,5
+Lyon,2020-03-21,4
+Lyon,2020-03-22,4
+Lyon,2020-03-23,5
+Lyon,2020-03-24,5
+Lyon,2020-03-25,4
+Lyon,2020-03-26,4
+Lyon,2020-03-27,4
+Lyon,2020-03-28,4
+Lyon,2020-03-29,3
+Lyon,2020-03-30,4
+Lyon,2020-03-31,4
+Lyon,2020-04-01,4
+Lyon,2020-04-02,4
+Madrid,2020-03-02,107
+Madrid,2020-03-03,100
+Madrid,2020-03-04,100
+Madrid,2020-03-05,101
+Madrid,2020-03-06,101
+Madrid,2020-03-07,98
+Madrid,2020-03-08,103
+Madrid,2020-03-09,100
+Madrid,2020-03-10,78
+Madrid,2020-03-11,65
+Madrid,2020-03-12,41
+Madrid,2020-03-13,23
+Madrid,2020-03-14,11
+Madrid,2020-03-15,10
+Madrid,2020-03-16,9
+Madrid,2020-03-17,6
+Madrid,2020-03-18,5
+Madrid,2020-03-19,5
+Madrid,2020-03-20,4
+Madrid,2020-03-21,4
+Madrid,2020-03-22,4
+Madrid,2020-03-23,5
+Madrid,2020-03-24,5
+Madrid,2020-03-25,4
+Madrid,2020-03-26,4
+Madrid,2020-03-27,3
+Madrid,2020-03-28,3
+Madrid,2020-03-29,3
+Madrid,2020-03-30,4
+Madrid,2020-03-31,4
+Madrid,2020-04-01,4
+Madrid,2020-04-02,3
+Manchester,2020-03-02,106
+Manchester,2020-03-03,98
+Manchester,2020-03-04,100
+Manchester,2020-03-05,100
+Manchester,2020-03-06,105
+Manchester,2020-03-07,102
+Manchester,2020-03-08,108
+Manchester,2020-03-09,101
+Manchester,2020-03-10,93
+Manchester,2020-03-11,91
+Manchester,2020-03-12,88
+Manchester,2020-03-13,89
+Manchester,2020-03-14,81
+Manchester,2020-03-15,77
+Manchester,2020-03-16,68
+Manchester,2020-03-17,47
+Manchester,2020-03-18,42
+Manchester,2020-03-19,38
+Manchester,2020-03-20,36
+Manchester,2020-03-21,26
+Manchester,2020-03-22,26
+Manchester,2020-03-23,28
+Manchester,2020-03-24,16
+Manchester,2020-03-25,13
+Manchester,2020-03-26,12
+Manchester,2020-03-27,12
+Manchester,2020-03-28,10
+Manchester,2020-03-29,11
+Manchester,2020-03-30,13
+Manchester,2020-03-31,10
+Manchester,2020-04-01,10
+Manchester,2020-04-02,9
+Melbourne,2020-03-02,112
+Melbourne,2020-03-03,106
+Melbourne,2020-03-04,113
+Melbourne,2020-03-05,106
+Melbourne,2020-03-06,104
+Melbourne,2020-03-07,104
+Melbourne,2020-03-08,93
+Melbourne,2020-03-09,93
+Melbourne,2020-03-10,106
+Melbourne,2020-03-11,110
+Melbourne,2020-03-12,102
+Melbourne,2020-03-13,95
+Melbourne,2020-03-14,89
+Melbourne,2020-03-15,81
+Melbourne,2020-03-16,79
+Melbourne,2020-03-17,66
+Melbourne,2020-03-18,53
+Melbourne,2020-03-19,50
+Melbourne,2020-03-20,49
+Melbourne,2020-03-21,46
+Melbourne,2020-03-22,42
+Melbourne,2020-03-23,33
+Melbourne,2020-03-24,25
+Melbourne,2020-03-25,20
+Melbourne,2020-03-26,20
+Melbourne,2020-03-27,18
+Melbourne,2020-03-28,18
+Melbourne,2020-03-29,18
+Melbourne,2020-03-30,18
+Melbourne,2020-03-31,15
+Melbourne,2020-04-01,15
+Melbourne,2020-04-02,12
+Mexico City,2020-03-02,113
+Mexico City,2020-03-03,111
+Mexico City,2020-03-04,109
+Mexico City,2020-03-05,108
+Mexico City,2020-03-06,109
+Mexico City,2020-03-07,114
+Mexico City,2020-03-08,132
+Mexico City,2020-03-09,74
+Mexico City,2020-03-10,95
+Mexico City,2020-03-11,110
+Mexico City,2020-03-12,102
+Mexico City,2020-03-13,101
+Mexico City,2020-03-14,91
+Mexico City,2020-03-15,82
+Mexico City,2020-03-16,43
+Mexico City,2020-03-17,62
+Mexico City,2020-03-18,53
+Mexico City,2020-03-19,48
+Mexico City,2020-03-20,42
+Mexico City,2020-03-21,31
+Mexico City,2020-03-22,28
+Mexico City,2020-03-23,30
+Mexico City,2020-03-24,28
+Mexico City,2020-03-25,23
+Mexico City,2020-03-26,21
+Mexico City,2020-03-27,18
+Mexico City,2020-03-28,16
+Mexico City,2020-03-29,15
+Mexico City,2020-03-30,18
+Mexico City,2020-03-31,17
+Mexico City,2020-04-01,15
+Mexico City,2020-04-02,14
+Milan,2020-03-02,45
+Milan,2020-03-03,44
+Milan,2020-03-04,43
+Milan,2020-03-05,39
+Milan,2020-03-06,37
+Milan,2020-03-07,34
+Milan,2020-03-08,23
+Milan,2020-03-09,19
+Milan,2020-03-10,13
+Milan,2020-03-11,10
+Milan,2020-03-12,7
+Milan,2020-03-13,6
+Milan,2020-03-14,5
+Milan,2020-03-15,5
+Milan,2020-03-16,7
+Milan,2020-03-17,6
+Milan,2020-03-18,5
+Milan,2020-03-19,4
+Milan,2020-03-20,4
+Milan,2020-03-21,3
+Milan,2020-03-22,3
+Milan,2020-03-23,4
+Milan,2020-03-24,4
+Milan,2020-03-25,3
+Milan,2020-03-26,3
+Milan,2020-03-27,3
+Milan,2020-03-28,2
+Milan,2020-03-29,3
+Milan,2020-03-30,4
+Milan,2020-03-31,3
+Milan,2020-04-01,3
+Milan,2020-04-02,3
+Monaco,2020-03-02,82
+Monaco,2020-03-03,72
+Monaco,2020-03-04,81
+Monaco,2020-03-05,60
+Monaco,2020-03-06,75
+Monaco,2020-03-07,65
+Monaco,2020-03-08,64
+Monaco,2020-03-09,70
+Monaco,2020-03-10,74
+Monaco,2020-03-11,50
+Monaco,2020-03-12,55
+Monaco,2020-03-13,50
+Monaco,2020-03-14,35
+Monaco,2020-03-15,30
+Monaco,2020-03-16,33
+Monaco,2020-03-17,20
+Monaco,2020-03-18,12
+Monaco,2020-03-19,10
+Monaco,2020-03-20,8
+Monaco,2020-03-21,4
+Monaco,2020-03-22,7
+Monaco,2020-03-23,5
+Monaco,2020-03-24,10
+Monaco,2020-03-25,7
+Monaco,2020-03-26,7
+Monaco,2020-03-27,7
+Monaco,2020-03-28,7
+Monaco,2020-03-29,5
+Monaco,2020-03-30,7
+Monaco,2020-03-31,5
+Monaco,2020-04-01,7
+Monaco,2020-04-02,5
+Montréal,2020-03-02,96
+Montréal,2020-03-03,100
+Montréal,2020-03-04,103
+Montréal,2020-03-05,104
+Montréal,2020-03-06,102
+Montréal,2020-03-07,107
+Montréal,2020-03-08,113
+Montréal,2020-03-09,96
+Montréal,2020-03-10,99
+Montréal,2020-03-11,104
+Montréal,2020-03-12,100
+Montréal,2020-03-13,87
+Montréal,2020-03-14,79
+Montréal,2020-03-15,69
+Montréal,2020-03-16,51
+Montréal,2020-03-17,34
+Montréal,2020-03-18,31
+Montréal,2020-03-19,27
+Montréal,2020-03-20,24
+Montréal,2020-03-21,23
+Montréal,2020-03-22,21
+Montréal,2020-03-23,18
+Montréal,2020-03-24,16
+Montréal,2020-03-25,14
+Montréal,2020-03-26,13
+Montréal,2020-03-27,13
+Montréal,2020-03-28,12
+Montréal,2020-03-29,11
+Montréal,2020-03-30,13
+Montréal,2020-03-31,12
+Montréal,2020-04-01,13
+Montréal,2020-04-02,11
+Moscow,2020-03-02,102
+Moscow,2020-03-03,117
+Moscow,2020-03-04,112
+Moscow,2020-03-05,103
+Moscow,2020-03-06,108
+Moscow,2020-03-07,102
+Moscow,2020-03-08,97
+Moscow,2020-03-09,86
+Moscow,2020-03-10,106
+Moscow,2020-03-11,113
+Moscow,2020-03-12,100
+Moscow,2020-03-13,95
+Moscow,2020-03-14,100
+Moscow,2020-03-15,80
+Moscow,2020-03-16,85
+Moscow,2020-03-17,82
+Moscow,2020-03-18,75
+Moscow,2020-03-19,64
+Moscow,2020-03-20,56
+Moscow,2020-03-21,53
+Moscow,2020-03-22,56
+Moscow,2020-03-23,56
+Moscow,2020-03-24,56
+Moscow,2020-03-25,54
+Moscow,2020-03-26,49
+Moscow,2020-03-27,46
+Moscow,2020-03-28,32
+Moscow,2020-03-29,27
+Moscow,2020-03-30,17
+Moscow,2020-03-31,17
+Moscow,2020-04-01,14
+Moscow,2020-04-02,12
+New York City,2020-03-02,100
+New York City,2020-03-03,102
+New York City,2020-03-04,104
+New York City,2020-03-05,102
+New York City,2020-03-06,103
+New York City,2020-03-07,103
+New York City,2020-03-08,101
+New York City,2020-03-09,97
+New York City,2020-03-10,90
+New York City,2020-03-11,85
+New York City,2020-03-12,70
+New York City,2020-03-13,54
+New York City,2020-03-14,47
+New York City,2020-03-15,36
+New York City,2020-03-16,30
+New York City,2020-03-17,20
+New York City,2020-03-18,17
+New York City,2020-03-19,13
+New York City,2020-03-20,12
+New York City,2020-03-21,10
+New York City,2020-03-22,8
+New York City,2020-03-23,8
+New York City,2020-03-24,8
+New York City,2020-03-25,7
+New York City,2020-03-26,8
+New York City,2020-03-27,7
+New York City,2020-03-28,6
+New York City,2020-03-29,5
+New York City,2020-03-30,8
+New York City,2020-03-31,7
+New York City,2020-04-01,7
+New York City,2020-04-02,6
+Paris,2020-03-02,95
+Paris,2020-03-03,101
+Paris,2020-03-04,95
+Paris,2020-03-05,98
+Paris,2020-03-06,99
+Paris,2020-03-07,99
+Paris,2020-03-08,95
+Paris,2020-03-09,86
+Paris,2020-03-10,88
+Paris,2020-03-11,89
+Paris,2020-03-12,81
+Paris,2020-03-13,74
+Paris,2020-03-14,65
+Paris,2020-03-15,47
+Paris,2020-03-16,33
+Paris,2020-03-17,15
+Paris,2020-03-18,8
+Paris,2020-03-19,7
+Paris,2020-03-20,6
+Paris,2020-03-21,5
+Paris,2020-03-22,6
+Paris,2020-03-23,7
+Paris,2020-03-24,6
+Paris,2020-03-25,6
+Paris,2020-03-26,6
+Paris,2020-03-27,5
+Paris,2020-03-28,5
+Paris,2020-03-29,5
+Paris,2020-03-30,6
+Paris,2020-03-31,6
+Paris,2020-04-01,5
+Paris,2020-04-02,5
+Philadelphia,2020-03-02,94
+Philadelphia,2020-03-03,96
+Philadelphia,2020-03-04,89
+Philadelphia,2020-03-05,96
+Philadelphia,2020-03-06,95
+Philadelphia,2020-03-07,101
+Philadelphia,2020-03-08,103
+Philadelphia,2020-03-09,100
+Philadelphia,2020-03-10,85
+Philadelphia,2020-03-11,85
+Philadelphia,2020-03-12,70
+Philadelphia,2020-03-13,56
+Philadelphia,2020-03-14,50
+Philadelphia,2020-03-15,39
+Philadelphia,2020-03-16,38
+Philadelphia,2020-03-17,28
+Philadelphia,2020-03-18,22
+Philadelphia,2020-03-19,19
+Philadelphia,2020-03-20,19
+Philadelphia,2020-03-21,19
+Philadelphia,2020-03-22,17
+Philadelphia,2020-03-23,17
+Philadelphia,2020-03-24,13
+Philadelphia,2020-03-25,13
+Philadelphia,2020-03-26,15
+Philadelphia,2020-03-27,14
+Philadelphia,2020-03-28,11
+Philadelphia,2020-03-29,11
+Philadelphia,2020-03-30,13
+Philadelphia,2020-03-31,10
+Philadelphia,2020-04-01,12
+Philadelphia,2020-04-02,11
 Rhine-Ruhr,2020-03-02,74
 Rhine-Ruhr,2020-03-03,79
 Rhine-Ruhr,2020-03-04,75
@@ -867,6 +862,7 @@ Rhine-Ruhr,2020-03-29,12
 Rhine-Ruhr,2020-03-30,15
 Rhine-Ruhr,2020-03-31,15
 Rhine-Ruhr,2020-04-01,17
+Rhine-Ruhr,2020-04-02,16
 Rome,2020-03-02,97
 Rome,2020-03-03,91
 Rome,2020-03-04,91
@@ -898,99 +894,7 @@ Rome,2020-03-29,3
 Rome,2020-03-30,5
 Rome,2020-03-31,5
 Rome,2020-04-01,5
-São Paulo,2020-03-02,112
-São Paulo,2020-03-03,115
-São Paulo,2020-03-04,112
-São Paulo,2020-03-05,118
-São Paulo,2020-03-06,117
-São Paulo,2020-03-07,120
-São Paulo,2020-03-08,105
-São Paulo,2020-03-09,112
-São Paulo,2020-03-10,117
-São Paulo,2020-03-11,113
-São Paulo,2020-03-12,107
-São Paulo,2020-03-13,96
-São Paulo,2020-03-14,88
-São Paulo,2020-03-15,73
-São Paulo,2020-03-16,62
-São Paulo,2020-03-17,45
-São Paulo,2020-03-18,33
-São Paulo,2020-03-19,25
-São Paulo,2020-03-20,19
-São Paulo,2020-03-21,17
-São Paulo,2020-03-22,17
-São Paulo,2020-03-23,13
-São Paulo,2020-03-24,11
-São Paulo,2020-03-25,12
-São Paulo,2020-03-26,11
-São Paulo,2020-03-27,12
-São Paulo,2020-03-28,13
-São Paulo,2020-03-29,13
-São Paulo,2020-03-30,14
-São Paulo,2020-03-31,14
-São Paulo,2020-04-01,12
-Seattle,2020-03-02,83
-Seattle,2020-03-03,83
-Seattle,2020-03-04,80
-Seattle,2020-03-05,72
-Seattle,2020-03-06,71
-Seattle,2020-03-07,68
-Seattle,2020-03-08,74
-Seattle,2020-03-09,56
-Seattle,2020-03-10,56
-Seattle,2020-03-11,51
-Seattle,2020-03-12,43
-Seattle,2020-03-13,41
-Seattle,2020-03-14,36
-Seattle,2020-03-15,42
-Seattle,2020-03-16,28
-Seattle,2020-03-17,23
-Seattle,2020-03-18,19
-Seattle,2020-03-19,17
-Seattle,2020-03-20,16
-Seattle,2020-03-21,18
-Seattle,2020-03-22,18
-Seattle,2020-03-23,14
-Seattle,2020-03-24,10
-Seattle,2020-03-25,8
-Seattle,2020-03-26,9
-Seattle,2020-03-27,8
-Seattle,2020-03-28,10
-Seattle,2020-03-29,12
-Seattle,2020-03-30,8
-Seattle,2020-03-31,8
-Seattle,2020-04-01,8
-Seoul,2020-03-02,52
-Seoul,2020-03-03,51
-Seoul,2020-03-04,48
-Seoul,2020-03-05,46
-Seoul,2020-03-06,46
-Seoul,2020-03-07,43
-Seoul,2020-03-08,51
-Seoul,2020-03-09,46
-Seoul,2020-03-10,41
-Seoul,2020-03-11,43
-Seoul,2020-03-12,45
-Seoul,2020-03-13,41
-Seoul,2020-03-14,40
-Seoul,2020-03-15,38
-Seoul,2020-03-16,44
-Seoul,2020-03-17,40
-Seoul,2020-03-18,41
-Seoul,2020-03-19,36
-Seoul,2020-03-20,44
-Seoul,2020-03-21,39
-Seoul,2020-03-22,38
-Seoul,2020-03-23,36
-Seoul,2020-03-24,36
-Seoul,2020-03-25,37
-Seoul,2020-03-26,36
-Seoul,2020-03-27,37
-Seoul,2020-03-28,36
-Seoul,2020-03-29,35
-Seoul,2020-03-30,38
-Seoul,2020-03-31,36
-Seoul,2020-04-01,37
+Rome,2020-04-02,4
 San Francisco,2020-03-02,100
 San Francisco,2020-03-03,100
 San Francisco,2020-03-04,96
@@ -1022,6 +926,71 @@ San Francisco,2020-03-29,7
 San Francisco,2020-03-30,8
 San Francisco,2020-03-31,6
 San Francisco,2020-04-01,5
+San Francisco,2020-04-02,5
+Seattle,2020-03-02,83
+Seattle,2020-03-03,83
+Seattle,2020-03-04,80
+Seattle,2020-03-05,72
+Seattle,2020-03-06,71
+Seattle,2020-03-07,68
+Seattle,2020-03-08,74
+Seattle,2020-03-09,56
+Seattle,2020-03-10,56
+Seattle,2020-03-11,51
+Seattle,2020-03-12,43
+Seattle,2020-03-13,41
+Seattle,2020-03-14,36
+Seattle,2020-03-15,42
+Seattle,2020-03-16,28
+Seattle,2020-03-17,23
+Seattle,2020-03-18,19
+Seattle,2020-03-19,17
+Seattle,2020-03-20,16
+Seattle,2020-03-21,18
+Seattle,2020-03-22,18
+Seattle,2020-03-23,14
+Seattle,2020-03-24,10
+Seattle,2020-03-25,8
+Seattle,2020-03-26,9
+Seattle,2020-03-27,8
+Seattle,2020-03-28,10
+Seattle,2020-03-29,12
+Seattle,2020-03-30,8
+Seattle,2020-03-31,8
+Seattle,2020-04-01,8
+Seattle,2020-04-02,9
+Seoul,2020-03-02,52
+Seoul,2020-03-03,51
+Seoul,2020-03-04,48
+Seoul,2020-03-05,46
+Seoul,2020-03-06,46
+Seoul,2020-03-07,43
+Seoul,2020-03-08,51
+Seoul,2020-03-09,46
+Seoul,2020-03-10,41
+Seoul,2020-03-11,43
+Seoul,2020-03-12,45
+Seoul,2020-03-13,41
+Seoul,2020-03-14,40
+Seoul,2020-03-15,38
+Seoul,2020-03-16,44
+Seoul,2020-03-17,40
+Seoul,2020-03-18,41
+Seoul,2020-03-19,36
+Seoul,2020-03-20,44
+Seoul,2020-03-21,39
+Seoul,2020-03-22,38
+Seoul,2020-03-23,36
+Seoul,2020-03-24,36
+Seoul,2020-03-25,37
+Seoul,2020-03-26,36
+Seoul,2020-03-27,37
+Seoul,2020-03-28,36
+Seoul,2020-03-29,35
+Seoul,2020-03-30,38
+Seoul,2020-03-31,36
+Seoul,2020-04-01,37
+Seoul,2020-04-02,37
 Singapore,2020-03-02,88
 Singapore,2020-03-03,91
 Singapore,2020-03-04,90
@@ -1053,37 +1022,7 @@ Singapore,2020-03-29,54
 Singapore,2020-03-30,53
 Singapore,2020-03-31,55
 Singapore,2020-04-01,51
-Stockholm,2020-03-02,98
-Stockholm,2020-03-03,93
-Stockholm,2020-03-04,97
-Stockholm,2020-03-05,98
-Stockholm,2020-03-06,105
-Stockholm,2020-03-07,106
-Stockholm,2020-03-08,99
-Stockholm,2020-03-09,92
-Stockholm,2020-03-10,87
-Stockholm,2020-03-11,83
-Stockholm,2020-03-12,71
-Stockholm,2020-03-13,66
-Stockholm,2020-03-14,65
-Stockholm,2020-03-15,53
-Stockholm,2020-03-16,52
-Stockholm,2020-03-17,39
-Stockholm,2020-03-18,34
-Stockholm,2020-03-19,36
-Stockholm,2020-03-20,30
-Stockholm,2020-03-21,31
-Stockholm,2020-03-22,30
-Stockholm,2020-03-23,35
-Stockholm,2020-03-24,32
-Stockholm,2020-03-25,32
-Stockholm,2020-03-26,26
-Stockholm,2020-03-27,27
-Stockholm,2020-03-28,28
-Stockholm,2020-03-29,28
-Stockholm,2020-03-30,28
-Stockholm,2020-03-31,28
-Stockholm,2020-04-01,30
+Singapore,2020-04-02,49
 St. Petersburg,2020-03-02,115
 St. Petersburg,2020-03-03,125
 St. Petersburg,2020-03-04,114
@@ -1115,6 +1054,39 @@ St. Petersburg,2020-03-29,28
 St. Petersburg,2020-03-30,28
 St. Petersburg,2020-03-31,24
 St. Petersburg,2020-04-01,20
+St. Petersburg,2020-04-02,18
+Stockholm,2020-03-02,98
+Stockholm,2020-03-03,93
+Stockholm,2020-03-04,97
+Stockholm,2020-03-05,98
+Stockholm,2020-03-06,105
+Stockholm,2020-03-07,106
+Stockholm,2020-03-08,99
+Stockholm,2020-03-09,92
+Stockholm,2020-03-10,87
+Stockholm,2020-03-11,83
+Stockholm,2020-03-12,71
+Stockholm,2020-03-13,66
+Stockholm,2020-03-14,65
+Stockholm,2020-03-15,53
+Stockholm,2020-03-16,52
+Stockholm,2020-03-17,39
+Stockholm,2020-03-18,34
+Stockholm,2020-03-19,36
+Stockholm,2020-03-20,30
+Stockholm,2020-03-21,31
+Stockholm,2020-03-22,30
+Stockholm,2020-03-23,35
+Stockholm,2020-03-24,32
+Stockholm,2020-03-25,32
+Stockholm,2020-03-26,26
+Stockholm,2020-03-27,27
+Stockholm,2020-03-28,28
+Stockholm,2020-03-29,28
+Stockholm,2020-03-30,28
+Stockholm,2020-03-31,28
+Stockholm,2020-04-01,30
+Stockholm,2020-04-02,28
 Sydney,2020-03-02,121
 Sydney,2020-03-03,109
 Sydney,2020-03-04,106
@@ -1146,6 +1118,39 @@ Sydney,2020-03-29,19
 Sydney,2020-03-30,16
 Sydney,2020-03-31,14
 Sydney,2020-04-01,13
+Sydney,2020-04-02,13
+São Paulo,2020-03-02,112
+São Paulo,2020-03-03,115
+São Paulo,2020-03-04,112
+São Paulo,2020-03-05,118
+São Paulo,2020-03-06,117
+São Paulo,2020-03-07,120
+São Paulo,2020-03-08,105
+São Paulo,2020-03-09,112
+São Paulo,2020-03-10,117
+São Paulo,2020-03-11,113
+São Paulo,2020-03-12,107
+São Paulo,2020-03-13,96
+São Paulo,2020-03-14,88
+São Paulo,2020-03-15,73
+São Paulo,2020-03-16,62
+São Paulo,2020-03-17,45
+São Paulo,2020-03-18,33
+São Paulo,2020-03-19,25
+São Paulo,2020-03-20,19
+São Paulo,2020-03-21,17
+São Paulo,2020-03-22,17
+São Paulo,2020-03-23,13
+São Paulo,2020-03-24,11
+São Paulo,2020-03-25,12
+São Paulo,2020-03-26,11
+São Paulo,2020-03-27,12
+São Paulo,2020-03-28,13
+São Paulo,2020-03-29,13
+São Paulo,2020-03-30,14
+São Paulo,2020-03-31,14
+São Paulo,2020-04-01,12
+São Paulo,2020-04-02,12
 Tokyo,2020-03-02,60
 Tokyo,2020-03-03,62
 Tokyo,2020-03-04,63
@@ -1177,6 +1182,7 @@ Tokyo,2020-03-29,7
 Tokyo,2020-03-30,11
 Tokyo,2020-03-31,10
 Tokyo,2020-04-01,7
+Tokyo,2020-04-02,9
 Toronto,2020-03-02,95
 Toronto,2020-03-03,102
 Toronto,2020-03-04,97
@@ -1208,6 +1214,7 @@ Toronto,2020-03-29,18
 Toronto,2020-03-30,17
 Toronto,2020-03-31,18
 Toronto,2020-04-01,18
+Toronto,2020-04-02,15
 Vancouver,2020-03-02,93
 Vancouver,2020-03-03,95
 Vancouver,2020-03-04,94
@@ -1239,6 +1246,7 @@ Vancouver,2020-03-29,15
 Vancouver,2020-03-30,17
 Vancouver,2020-03-31,17
 Vancouver,2020-04-01,16
+Vancouver,2020-04-02,15
 Vienna,2020-03-02,130
 Vienna,2020-03-03,114
 Vienna,2020-03-04,128
@@ -1270,3 +1278,36 @@ Vienna,2020-03-29,3
 Vienna,2020-03-30,5
 Vienna,2020-03-31,6
 Vienna,2020-04-01,6
+Vienna,2020-04-02,5
+Washington DC,2020-03-02,102
+Washington DC,2020-03-03,95
+Washington DC,2020-03-04,97
+Washington DC,2020-03-05,96
+Washington DC,2020-03-06,92
+Washington DC,2020-03-07,101
+Washington DC,2020-03-08,98
+Washington DC,2020-03-09,94
+Washington DC,2020-03-10,83
+Washington DC,2020-03-11,82
+Washington DC,2020-03-12,66
+Washington DC,2020-03-13,54
+Washington DC,2020-03-14,47
+Washington DC,2020-03-15,35
+Washington DC,2020-03-16,32
+Washington DC,2020-03-17,19
+Washington DC,2020-03-18,15
+Washington DC,2020-03-19,13
+Washington DC,2020-03-20,12
+Washington DC,2020-03-21,14
+Washington DC,2020-03-22,11
+Washington DC,2020-03-23,9
+Washington DC,2020-03-24,7
+Washington DC,2020-03-25,6
+Washington DC,2020-03-26,7
+Washington DC,2020-03-27,6
+Washington DC,2020-03-28,6
+Washington DC,2020-03-29,7
+Washington DC,2020-03-30,8
+Washington DC,2020-03-31,5
+Washington DC,2020-04-01,5
+Washington DC,2020-04-02,5
