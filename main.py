@@ -1,46 +1,23 @@
 import csv
 import datetime
-import glob
-import re
+import json
 
-from bs4 import BeautifulSoup
-
-
-class Parser(object):
-    START_DATE = datetime.datetime(2020, 3, 2)
-
-    def __init__(self, html):
-        super(Parser, self).__init__()
-        self.content = BeautifulSoup(html, "html.parser")
-
-    def values(self):
-        def clean_values(current_date, percentage):
-            return (current_date.strftime("%Y-%m-%d"), int(percentage))
-
-        res = []
-        current_date = self.START_DATE
-
-        for item in self.content.findAll("td"):
-            matches = re.findall(r"(\d+)(?:st|nd|rd|th).*>(\d+)%", str(item))
-            if len(matches) == 0:
-                continue
-            res.append(clean_values(current_date, matches[0][1]))
-            current_date = current_date + datetime.timedelta(days=1)
-        return res
-
-    def city(self):
-        return self.content.findAll("h2")[0].text
-
-
+today = datetime.date.today().strftime("%Y-%m-%d")
 data = []
-for filename in sorted(glob.glob("data/*.html")):
-    with open(filename) as f:
-        html_content = f.read()
-    parsed = Parser(html_content)
-    for day, percentage in parsed.values():
-        data.append([parsed.city(), day, percentage])
+with open(f"data/data-{today}.json") as f:
+    parsed = json.load(f)
 
-with open("data.csv", "w") as f:
+    regions = {}
+    for region in parsed["regions"]:
+        regions[region["id"]] = region["name"]
+
+    daily = [p for p in parsed["datapoints"] if p["name"] == "one_day"]
+    datapoints = sorted(daily, key=lambda k: f"{regions[k['region_id']]}-{k['date']}")
+    for datapoint in datapoints:
+        city = regions[datapoint["region_id"]]
+        data.append([city, datapoint["date"], datapoint["value"]])
+
+with open("data.csv", "w", newline="") as f:
     writer = csv.writer(f)
     writer.writerow(["city", "date", "percentage"])
     writer.writerows(data)
