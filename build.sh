@@ -1,10 +1,6 @@
-source venv/bin/activate
+wget -O data/data-`date +%Y-%m-%d`.json https://citymapper.com/api/gobot_tab/data
 
-cd data
-wget -O data-`date +%Y-%m-%d`.json https://citymapper.com/api/gobot_tab/data
-
-cd ..
-python main.py
+python3 main.py
 
 export API="https://www.data.gouv.fr/api/1"
 export DATASET_ID="5e7ca7511bc790fc68223a2f"
