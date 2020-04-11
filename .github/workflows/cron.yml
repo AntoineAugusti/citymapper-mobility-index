@@ -26,6 +26,12 @@ jobs:
           -H "X-Api-Key:$DATA_GOUV_API_KEY" \
           -F "file=@data.csv" \
           -X POST $API/datasets/$DATASET_ID/resources/$RESOURCE/upload/
+        export DATE_END=`date +%Y-%m-%d`
+        curl -H "Accept:application/json" \
+          -H 'Content-Type: application/json'\
+          -H "X-Api-Key:$DATA_GOUV_API_KEY" \
+          --data-binary $'{"temporal_coverage":{"start":"2020-03-02","end":"'"$DATE_END"'"}}' \
+          -X PUT $API/datasets/$DATASET_ID/
       env:
         DATA_GOUV_API_KEY: ${{ secrets.DATA_GOUV_API_KEY }}
         API: "https://www.data.gouv.fr/api/1"
