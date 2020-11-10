@@ -251,6 +251,7 @@ Amsterdam,2020-11-05,19
 Amsterdam,2020-11-06,18
 Amsterdam,2020-11-07,19
 Amsterdam,2020-11-08,16
+Amsterdam,2020-11-09,19
 Barcelona,2020-03-02,112
 Barcelona,2020-03-03,105
 Barcelona,2020-03-04,105
@@ -503,6 +504,7 @@ Barcelona,2020-11-05,28
 Barcelona,2020-11-06,25
 Barcelona,2020-11-07,20
 Barcelona,2020-11-08,26
+Barcelona,2020-11-09,35
 Berlin,2020-03-02,103
 Berlin,2020-03-03,94
 Berlin,2020-03-04,93
@@ -755,6 +757,7 @@ Berlin,2020-11-05,38
 Berlin,2020-11-06,34
 Berlin,2020-11-07,38
 Berlin,2020-11-08,37
+Berlin,2020-11-09,34
 Birmingham,2020-03-02,100
 Birmingham,2020-03-03,105
 Birmingham,2020-03-04,99
@@ -1007,6 +1010,7 @@ Birmingham,2020-11-05,42
 Birmingham,2020-11-06,38
 Birmingham,2020-11-07,35
 Birmingham,2020-11-08,33
+Birmingham,2020-11-09,49
 Boston,2020-03-02,97
 Boston,2020-03-03,99
 Boston,2020-03-04,97
@@ -1259,6 +1263,7 @@ Boston,2020-11-05,19
 Boston,2020-11-06,23
 Boston,2020-11-07,31
 Boston,2020-11-08,27
+Boston,2020-11-09,22
 Brussels,2020-03-02,106
 Brussels,2020-03-03,102
 Brussels,2020-03-04,107
@@ -1511,6 +1516,7 @@ Brussels,2020-11-05,27
 Brussels,2020-11-06,27
 Brussels,2020-11-07,28
 Brussels,2020-11-08,27
+Brussels,2020-11-09,30
 Chicago,2020-03-02,106
 Chicago,2020-03-03,99
 Chicago,2020-03-04,97
@@ -1763,6 +1769,7 @@ Chicago,2020-11-05,19
 Chicago,2020-11-06,18
 Chicago,2020-11-07,24
 Chicago,2020-11-08,24
+Chicago,2020-11-09,20
 Copenhagen,2020-03-02,103
 Copenhagen,2020-03-03,102
 Copenhagen,2020-03-04,97
@@ -2015,6 +2022,7 @@ Copenhagen,2020-11-05,33
 Copenhagen,2020-11-06,28
 Copenhagen,2020-11-07,30
 Copenhagen,2020-11-08,28
+Copenhagen,2020-11-09,35
 Hamburg,2020-02-24,112
 Hamburg,2020-02-25,105
 Hamburg,2020-02-26,97
@@ -2274,6 +2282,7 @@ Hamburg,2020-11-05,41
 Hamburg,2020-11-06,34
 Hamburg,2020-11-07,38
 Hamburg,2020-11-08,35
+Hamburg,2020-11-09,38
 Hong Kong,2020-01-20,107
 Hong Kong,2020-01-21,104
 Hong Kong,2020-01-22,103
@@ -2568,6 +2577,7 @@ Hong Kong,2020-11-05,59
 Hong Kong,2020-11-06,62
 Hong Kong,2020-11-07,64
 Hong Kong,2020-11-08,64
+Hong Kong,2020-11-09,59
 Istanbul,2020-03-02,124
 Istanbul,2020-03-03,124
 Istanbul,2020-03-04,117
@@ -2820,6 +2830,7 @@ Istanbul,2020-11-05,53
 Istanbul,2020-11-06,54
 Istanbul,2020-11-07,52
 Istanbul,2020-11-08,59
+Istanbul,2020-11-09,62
 Lisbon,2020-03-02,120
 Lisbon,2020-03-03,123
 Lisbon,2020-03-04,128
@@ -3072,6 +3083,7 @@ Lisbon,2020-11-05,50
 Lisbon,2020-11-06,47
 Lisbon,2020-11-07,53
 Lisbon,2020-11-08,43
+Lisbon,2020-11-09,49
 London,2020-03-02,100
 London,2020-03-03,102
 London,2020-03-04,100
@@ -3324,6 +3336,7 @@ London,2020-11-05,28
 London,2020-11-06,26
 London,2020-11-07,26
 London,2020-11-08,28
+London,2020-11-09,30
 Los Angeles,2020-03-02,107
 Los Angeles,2020-03-03,110
 Los Angeles,2020-03-04,108
@@ -3576,6 +3589,7 @@ Los Angeles,2020-11-05,16
 Los Angeles,2020-11-06,20
 Los Angeles,2020-11-07,18
 Los Angeles,2020-11-08,19
+Los Angeles,2020-11-09,19
 Lyon,2020-02-24,102
 Lyon,2020-02-25,103
 Lyon,2020-02-26,100
@@ -3835,6 +3849,7 @@ Lyon,2020-11-05,26
 Lyon,2020-11-06,24
 Lyon,2020-11-07,19
 Lyon,2020-11-08,21
+Lyon,2020-11-09,32
 Madrid,2020-03-02,107
 Madrid,2020-03-03,100
 Madrid,2020-03-04,100
@@ -4087,6 +4102,7 @@ Madrid,2020-11-05,44
 Madrid,2020-11-06,46
 Madrid,2020-11-07,46
 Madrid,2020-11-08,48
+Madrid,2020-11-09,42
 Manchester,2020-03-02,106
 Manchester,2020-03-03,98
 Manchester,2020-03-04,100
@@ -4339,6 +4355,7 @@ Manchester,2020-11-05,34
 Manchester,2020-11-06,31
 Manchester,2020-11-07,28
 Manchester,2020-11-08,30
+Manchester,2020-11-09,38
 Melbourne,2020-03-02,112
 Melbourne,2020-03-03,106
 Melbourne,2020-03-04,113
@@ -4591,6 +4608,7 @@ Melbourne,2020-11-05,22
 Melbourne,2020-11-06,26
 Melbourne,2020-11-07,31
 Melbourne,2020-11-08,28
+Melbourne,2020-11-09,25
 Mexico City,2020-03-02,113
 Mexico City,2020-03-03,111
 Mexico City,2020-03-04,109
@@ -4843,6 +4861,7 @@ Mexico City,2020-11-05,28
 Mexico City,2020-11-06,28
 Mexico City,2020-11-07,28
 Mexico City,2020-11-08,26
+Mexico City,2020-11-09,31
 Milan,2020-02-17,123
 Milan,2020-02-18,124
 Milan,2020-02-19,130
@@ -5109,6 +5128,7 @@ Milan,2020-11-05,28
 Milan,2020-11-06,13
 Milan,2020-11-07,10
 Milan,2020-11-08,10
+Milan,2020-11-09,17
 Montréal,2020-03-02,96
 Montréal,2020-03-03,100
 Montréal,2020-03-04,103
@@ -5361,6 +5381,7 @@ Montréal,2020-11-05,27
 Montréal,2020-11-06,27
 Montréal,2020-11-07,28
 Montréal,2020-11-08,28
+Montréal,2020-11-09,25
 Moscow,2020-03-02,102
 Moscow,2020-03-03,117
 Moscow,2020-03-04,112
@@ -5613,6 +5634,7 @@ Moscow,2020-11-05,44
 Moscow,2020-11-06,48
 Moscow,2020-11-07,44
 Moscow,2020-11-08,50
+Moscow,2020-11-09,47
 New York City,2020-03-02,100
 New York City,2020-03-03,102
 New York City,2020-03-04,104
@@ -5865,6 +5887,7 @@ New York City,2020-11-05,26
 New York City,2020-11-06,28
 New York City,2020-11-07,33
 New York City,2020-11-08,31
+New York City,2020-11-09,27
 Paris,2020-03-02,95
 Paris,2020-03-03,101
 Paris,2020-03-04,95
@@ -6117,6 +6140,7 @@ Paris,2020-11-05,27
 Paris,2020-11-06,26
 Paris,2020-11-07,20
 Paris,2020-11-08,21
+Paris,2020-11-09,30
 Philadelphia,2020-03-02,94
 Philadelphia,2020-03-03,96
 Philadelphia,2020-03-04,89
@@ -6369,6 +6393,7 @@ Philadelphia,2020-11-05,24
 Philadelphia,2020-11-06,26
 Philadelphia,2020-11-07,34
 Philadelphia,2020-11-08,28
+Philadelphia,2020-11-09,27
 Rhine-Ruhr,2020-02-24,95
 Rhine-Ruhr,2020-02-25,84
 Rhine-Ruhr,2020-02-26,87
@@ -6628,6 +6653,7 @@ Rhine-Ruhr,2020-11-05,31
 Rhine-Ruhr,2020-11-06,31
 Rhine-Ruhr,2020-11-07,30
 Rhine-Ruhr,2020-11-08,26
+Rhine-Ruhr,2020-11-09,30
 Rome,2020-02-24,136
 Rome,2020-02-25,102
 Rome,2020-02-26,98
@@ -6887,6 +6913,7 @@ Rome,2020-11-05,34
 Rome,2020-11-06,33
 Rome,2020-11-07,34
 Rome,2020-11-08,30
+Rome,2020-11-09,35
 San Francisco,2020-02-24,109
 San Francisco,2020-02-25,107
 San Francisco,2020-02-26,100
@@ -7146,6 +7173,7 @@ San Francisco,2020-11-05,8
 San Francisco,2020-11-06,9
 San Francisco,2020-11-07,13
 San Francisco,2020-11-08,13
+San Francisco,2020-11-09,11
 Seattle,2020-02-24,88
 Seattle,2020-02-25,98
 Seattle,2020-02-26,98
@@ -7405,6 +7433,7 @@ Seattle,2020-11-05,13
 Seattle,2020-11-06,15
 Seattle,2020-11-07,16
 Seattle,2020-11-08,21
+Seattle,2020-11-09,14
 Seoul,2020-02-03,97
 Seoul,2020-02-04,94
 Seoul,2020-02-05,88
@@ -7685,6 +7714,7 @@ Seoul,2020-11-05,44
 Seoul,2020-11-06,42
 Seoul,2020-11-07,44
 Seoul,2020-11-08,41
+Seoul,2020-11-09,39
 Singapore,2020-02-03,103
 Singapore,2020-02-04,104
 Singapore,2020-02-05,101
@@ -7965,6 +7995,7 @@ Singapore,2020-11-05,69
 Singapore,2020-11-06,77
 Singapore,2020-11-07,83
 Singapore,2020-11-08,81
+Singapore,2020-11-09,68
 St. Petersburg,2020-03-02,115
 St. Petersburg,2020-03-03,125
 St. Petersburg,2020-03-04,114
@@ -8217,6 +8248,7 @@ St. Petersburg,2020-11-05,64
 St. Petersburg,2020-11-06,62
 St. Petersburg,2020-11-07,68
 St. Petersburg,2020-11-08,65
+St. Petersburg,2020-11-09,66
 Stockholm,2020-03-02,98
 Stockholm,2020-03-03,93
 Stockholm,2020-03-04,97
@@ -8469,6 +8501,7 @@ Stockholm,2020-11-05,59
 Stockholm,2020-11-06,60
 Stockholm,2020-11-07,54
 Stockholm,2020-11-08,55
+Stockholm,2020-11-09,55
 Sydney,2020-03-02,121
 Sydney,2020-03-03,109
 Sydney,2020-03-04,106
@@ -8721,6 +8754,7 @@ Sydney,2020-11-05,39
 Sydney,2020-11-06,45
 Sydney,2020-11-07,45
 Sydney,2020-11-08,42
+Sydney,2020-11-09,41
 São Paulo,2020-03-02,112
 São Paulo,2020-03-03,115
 São Paulo,2020-03-04,112
@@ -8973,6 +9007,7 @@ São Paulo,2020-11-05,30
 São Paulo,2020-11-06,32
 São Paulo,2020-11-07,40
 São Paulo,2020-11-08,39
+São Paulo,2020-11-09,30
 Tokyo,2020-01-27,98
 Tokyo,2020-01-28,93
 Tokyo,2020-01-29,92
@@ -9260,6 +9295,7 @@ Tokyo,2020-11-05,9
 Tokyo,2020-11-06,8
 Tokyo,2020-11-07,8
 Tokyo,2020-11-08,10
+Tokyo,2020-11-09,8
 Toronto,2020-03-02,95
 Toronto,2020-03-03,102
 Toronto,2020-03-04,97
@@ -9512,6 +9548,7 @@ Toronto,2020-11-05,31
 Toronto,2020-11-06,34
 Toronto,2020-11-07,45
 Toronto,2020-11-08,42
+Toronto,2020-11-09,31
 Vancouver,2020-03-02,93
 Vancouver,2020-03-03,95
 Vancouver,2020-03-04,94
@@ -9764,6 +9801,7 @@ Vancouver,2020-11-05,30
 Vancouver,2020-11-06,32
 Vancouver,2020-11-07,35
 Vancouver,2020-11-08,33
+Vancouver,2020-11-09,31
 Vienna,2020-03-02,130
 Vienna,2020-03-03,114
 Vienna,2020-03-04,128
@@ -10016,6 +10054,7 @@ Vienna,2020-11-05,33
 Vienna,2020-11-06,26
 Vienna,2020-11-07,30
 Vienna,2020-11-08,22
+Vienna,2020-11-09,30
 Washington DC,2020-03-02,102
 Washington DC,2020-03-03,95
 Washington DC,2020-03-04,97
@@ -10268,3 +10307,4 @@ Washington DC,2020-11-05,11
 Washington DC,2020-11-06,14
 Washington DC,2020-11-07,24
 Washington DC,2020-11-08,21
+Washington DC,2020-11-09,15
